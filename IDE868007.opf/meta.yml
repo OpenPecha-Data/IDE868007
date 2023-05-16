@@ -1,0 +1,19 @@
+id: IDE868007
+default_language: en
+source: https://www.lotsawahouse.org
+initial_creation_type: web_scrap
+imported: 2023-01-04 11:27:24.629265
+last_modified: 2023-01-04 11:27:24.629277
+source_metadata:
+  collections:
+  - Adzom Drukpa Series
+  - Works of Tibetan Masters
+bases:
+  08B0:
+    title: 'The Hook of Blessing and Compassion: An Invocation Recalling Briefly the
+      Life and Liberation of the Drukchen Drodül Pawo Dorje, My Loving Supreme Guru'
+    base_file: 08B0.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
